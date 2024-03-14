@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a [Rainmeter](https://www.rainmeter.net) skin for displaying your Internet connection status via several hops: your router, your ISP gateway, Google DNS.
+This is a [Rainmeter](https://www.rainmeter.net) skin to ping and display your Internet connection status via several hops: your router, your ISP gateway, Google DNS.
 
 Each hop is represented by a dash. It is white if ping to the hop was successful, and red if it was not.
 
