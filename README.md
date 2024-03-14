@@ -4,7 +4,7 @@
 
 This is a [Rainmeter](https://www.rainmeter.net) skin for displaying your Internet connection status via several hops: your router, your ISP gateway, Google DNS.
 
-Each hop is represented by a dash. It is white if ping to the hop was successful, and red if was not.
+Each hop is represented by a dash. It is white if ping to the hop was successful, and red if it was not.
 
 You can add more hops by copying and editing respective blocks. For example, you can add a bridge router if you have one. You can also track independent addresses, local or global.
 
